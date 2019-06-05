@@ -136,6 +136,7 @@
 + Самодержавие
 
 ![](samoderzhavie.png)
+![](samodmem.jpg)
 + Полиция
 ![](politsia.png)
 + Холоп
