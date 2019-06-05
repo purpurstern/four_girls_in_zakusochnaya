@@ -109,21 +109,19 @@
 
 3. Для наглядности приводим скрины
   + Казначей
-  
-  ![](kazna.PNG)
-
+  ![](kazna.png)
   + Горожанин
-  ![](gorod.PNG)
+  ![](gorod.png)
   + Дворецкий
-  ![](dvor.PNG)
+  ![](dvor.png)
   + Интеллигенция
-  ![](intel.PNG)
+  ![](intel.png)
   + Полиция
-  ![](police.PMG)
+  ![](police.png)
   + Самодержавие
-  ![](samoderzh.PNG)
+  ![](samoderzh.png)
   + Жители
-  ![](zhil.PNG) 
+  ![](zhil.png) 
   
 
 
