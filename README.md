@@ -77,6 +77,7 @@
   ![](zh.png)
   ![](zh1.png)
   ![](zh2.png)
+  ![](zhmem.jpg)
     + [Cтатья]( https://iz.ru/news/568958)
   + Закусочная
   ![](zak.png)
