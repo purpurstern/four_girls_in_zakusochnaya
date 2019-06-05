@@ -14,11 +14,66 @@
 + Холоп
 + Интеллигенция
 
- ##НКРЯ
+ ## НКРЯ
   + Что мы искали в НКРЯ: в каком контексте используются выбранные нами слова 
   + Что мы нашли в НКРЯ: контекст употреблений слов и много странных статей. 
   + Алгоритм действий: все слова искались в газетном подкорпусе, задавались грамматические характеристики (то есть любой падеж и число), затем в распределении по годам настраивался нужный интервал (от 2007 до 2019). 
   + Интересно то, что НКРЯ не захотел искать слово «барин» в газетном подкорпусе.
+  + Самодержавие
+  +![](sam.png)
+  +![](sam1.png)
+  +![](sam2.png)
+    + [Cтатья](https://iz.ru/news/528205)
+  + Император
+  +![](imp.png)
+  +![](imp1.png)
+  +![](imp2.png)
+    + [Cтатья](https://globalaffairs.ru/global-processes/Ispytanie-Krymom-16517)
+  + Казначей
+  +![](kaz.png)
+  +![](kaz1.png)
+  +![](kaz2.png)
+    + [Cтатья](https://www.kuban.kp.ru/daily/24460/622314/)
+  + Интеллигенция
+  +![](intel.png)
+  +![](intel1.png)
+  +![](intel2.png)
+    + [Cтатья](https://www.kp.ru/daily/26255/3135134/)
+  + Полиция
+  +![](pol.png)
+  +![](pol1.png)
+  +![](pol2.png)
+    + [Cтатья](https://www.msk.kp.ru/daily/26252.5/3132449/)
+  + Жильцы
+  +![](zh.png)
+  +![](zh1.png)
+  +![](zh2.png)
+    + [Cтатья]( https://iz.ru/news/568958)
+  + Закусочная
+  +![](zak.png)
+  +![](zak1.png)
+  +![](zak2.png)
+    + [Cтатья](https://woman.rambler.ru/cooking/23478668-vlasti-argentiny-ostavili-klientov-mcdonald-s-bez-ketchupa/)
+  + Староста
+  +![](st.png)
+  +![](st1.png)
+  +![](st2.png)
+    + [Cтатья](https://iz.ru/news/514390)
+  + Дворецкий
+  +![](dv.png)
+  +![](dv1.png)
+  +![](dv2.png)
+    + [Cтатья](https://www.kp.ru/daily/26153.3/3041345/)
+  + Горожане
+  +![](g.png)
+  +![](g1.png)
+  +![](g2.png)
+   + [Cтатья](https://iz.ru/news/570245) 
+  + Холоп
+  +![](h.png)
+  +![](h1.png)
+  +![](h2.png)
+    + [Cтатья](http://www.trud.ru/article/12-09-2008/133223_chemu_vy_nauchilis_u_svoego_nachalnika.html)
   
 
 ## [Наш корпус](https://drive.google.com/open?id=1CTlcs6Uwd9aSpvOYV_qW9NizbWJBjZQW)
