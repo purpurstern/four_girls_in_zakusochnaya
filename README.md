@@ -70,6 +70,7 @@
   ![](g1.png)
   ![](g2.png)
    + [Cтатья](https://iz.ru/news/570245) 
+   ![](b4JCAaJrpm8.jpg)
   + Холоп
   ![](h.png)
   ![](h1.png)
