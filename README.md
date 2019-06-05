@@ -204,7 +204,7 @@
   + Полиция
   ![](police1.png)
   + Самодержавие
-  ![](samoderzh1.png)
+  ![](somoderzh1.png)
   + Жители
   ![](zhil1.png) 
   + Староста
